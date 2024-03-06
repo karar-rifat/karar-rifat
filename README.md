@@ -42,7 +42,6 @@
 
 <br/>
 <hr/>
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -78,6 +77,7 @@
 <br/>
 
 -->
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ![](https://github-profile-trophy.vercel.app/?username=PluckyPrecious&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
