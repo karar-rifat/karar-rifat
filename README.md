@@ -79,4 +79,6 @@
 
 -->
 
+![](https://github-profile-trophy.vercel.app/?username=PluckyPrecious&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+
 
