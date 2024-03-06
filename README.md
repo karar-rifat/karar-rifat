@@ -79,6 +79,6 @@
 -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-![](https://github-profile-trophy.vercel.app/?username=karar-rifat&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+<!--![](https://github-profile-trophy.vercel.app/?username=karar-rifat&theme=discord&no-frame=true&no-bg=false&margin-w=4)-->
 
 
