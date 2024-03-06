@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a WIB Corporation**
+ 🔭 I’m currently working on **WIB Corporation**
  
- 🌱 I’m currently learning **Machine Learning**
+ 🌱 I’m currently learning **Devops**
 
 💬 Ask me about **Java, Koltin, Docker,Kubernetes... or anything**
 
