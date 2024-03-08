@@ -12,7 +12,7 @@
  
  🔭 I’m currently working at **WIB Corporation**
  
- 🌱 I’m currently learning **Devops**
+ 🌱 I’m currently learning **Django <img src="https://skillicons.dev/icons?i=django" />**
 
 💬 Ask me about **Java, Koltin, Docker,Kubernetes... or anything**
 
