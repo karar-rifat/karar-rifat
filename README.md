@@ -36,7 +36,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <ul list-style="none">
+    <ul style="list-style-type:none">
         <li><img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,dart" /></li>
         <li><img src="https://skillicons.dev/icons?i=docker,kubernetes,androidstudio,git,firebase,aws,spring,bash,anaconda" /></li>
     </ul>
