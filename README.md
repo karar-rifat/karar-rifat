@@ -104,4 +104,8 @@
 
 <!--![](https://github-profile-trophy.vercel.app/?username=karar-rifat&theme=discord&no-frame=true&no-bg=false&margin-w=4)-->
 
+.ul {
+    list-style: none;
+}
+
 
