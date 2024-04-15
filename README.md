@@ -36,7 +36,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <ul>
+    <ul list-style="none">
         <li><img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,dart" /></li>
         <li><img src="https://skillicons.dev/icons?i=docker,kubernetes,androidstudio,git,firebase,aws,spring,bash,anaconda" /></li>
     </ul>
@@ -104,8 +104,5 @@
 
 <!--![](https://github-profile-trophy.vercel.app/?username=karar-rifat&theme=discord&no-frame=true&no-bg=false&margin-w=4)-->
 
-.ul {
-    list-style: none;
-}
 
 
