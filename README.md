@@ -36,8 +36,12 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,docker,kubernetes,androidstudio,git" />
-    <img src="https://skillicons.dev/icons?i=firebase,aws,spring,bash,anaconda" /><br>
+    <ul>
+        <li><img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,dart" /></li>
+        <li><img src="https://skillicons.dev/icons?i=docker,kubernetes,androidstudio,git,firebase,aws,spring,bash,anaconda" /></li>
+    </ul>
+<!--     <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,dart,docker,kubernetes,androidstudio,git" /> -->
+    <br>
 </div>
 
 <br/>
