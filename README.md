@@ -94,10 +94,6 @@
   <a href="https://www.hackerrank.com/karar_rifat">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.hackerrank.com/karar_rifat">
-    <img src="https://iconscout.com/icons/code-forces" class="text-underline font-size-sm" alt="hackerrank" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
   
   <!--<a href="https://www.codewars.com/users/abhimaira_10">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
